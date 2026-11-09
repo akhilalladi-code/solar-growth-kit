@@ -1,0 +1,1 @@
+Static assets for the Solar Growth Kit website. Keep CSS and JavaScript in their dedicated directories.
